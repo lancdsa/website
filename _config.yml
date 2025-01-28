@@ -11,7 +11,7 @@ collections:
 description: Chapter of the Democratic Socialists of America covering Lancaster and
   York counties in Pennsylvania.
 baseurl: 
-url: https://lancdsa.org
+url: https://new.lancdsa.org
 theme: minima
 plugins:
 - jekyll-feed
